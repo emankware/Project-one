@@ -1,0 +1,1 @@
+This is our first project in the bootcamp. It covers HTML and CSS fundamentals.

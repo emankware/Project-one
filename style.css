@@ -1,0 +1,49 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    font-family:  Helvetica;
+    border: 3px solid burlywood;
+    padding: 30px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+h1:hover{
+    font-size: xx-large;
+    color: maroon;
+}
+h2{
+    font-family: cursive;
+    text-align: center;
+}
+#content{
+    background-color: lightgoldenrodyellow;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#footer{
+    text-align: center;
+    text-decoration: overline;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    font-family: cursive;
+}
+p{
+    font-family: Verdana,;
+}
+img{
+    border-radius: 20px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 130%;
+    background-color: lightgoldenrodyellow;
+    max-width: 100%;
+    
+}
+footer{
+    text-align: center;
+
+}
